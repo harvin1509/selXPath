@@ -8,5 +8,6 @@
    
    git commit -m "Message" -> to commit the changes in the local repository
    
-   git push <REMOTE_ORIGIN_NAME> <LOCAL_REPOSITORY_BRANCH_NAME> -> to push the code to the github server. below is the example:
-   git push origin master -> use this :D
+   git push -> to push the code to the github server. below is the example:
+   
+   git pull -> pull the changes from remote server
